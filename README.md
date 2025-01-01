@@ -12,7 +12,7 @@ This repository contains exercises and implementations for the course **Fundamen
 ```plaintext
 ├── proj1_kntu/
 │   ├── question-project1.pdf    # Project 1 Question PDF
-│   ├── answer-project1.pdf      # Project 1 Answer and Report PDF
+│   ├── answer-project1.pdf      # Project 1 Answer PDF
 │   └── code/                    # Code and data for Project 1 (if available)
 │
 ├── proj2_kntu/
