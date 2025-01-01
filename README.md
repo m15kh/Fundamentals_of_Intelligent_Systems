@@ -25,5 +25,5 @@ This repository contains exercises and implementations for the course **Fundamen
 
 | Project     | Question PDF | Answer PDF |
 |-------------|--------------|------------|
-| **Project 1** | [question-project1.pdf](https://github.com/m15kh/project_kntu/blob/master/proj1_kntu/question-project1.pdf) | [answer-project1.pdf](https://github.com/m15kh/project_kntu/blob/master/proj1_kntu/answer-project1.pdf) |
-| **Project 2** | [question-project2.pdf](https://github.com/m15kh/project_kntu/blob/master/proj2_kntu/question-project2.pdf) | Answer not available yet |
+| **Prop1-kntu** | [question-project1.pdf](https://github.com/m15kh/project_kntu/blob/master/proj1_kntu/question-project1.pdf) | [answer-project1.pdf](https://github.com/m15kh/project_kntu/blob/master/proj1_kntu/answer-project1.pdf) |
+| **Proj2-kntu** | [question-project2.pdf](https://github.com/m15kh/project_kntu/blob/master/proj2_kntu/question-project2.pdf) | Answer not available yet |
