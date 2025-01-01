@@ -8,25 +8,25 @@ This repository contains exercises and implementations for the course **Fundamen
 - **University**: K. N. Toosi University of Technology
 - **Website**: [Dr. Aliyari's Website](http://cv.kntu.ac.ir/MahdiAliyariShoorehdeli)
 
-## Overview
-This repository is dedicated to the exercises of the **Fundamentals of Intelligent Systems** course, which provides practical applications and implementations of core concepts in intelligent systems, artificial intelligence, and machine learning.
-
 ## Repository Structure
 ```plaintext
-├── exercise_1/
-│   ├── README.md            # Instructions for Exercise 1
-│   ├── script.py            # Solution for Exercise 1
-│   └── data/                # Data used in Exercise 1
+├── proj1_kntu/
+│   ├── question-project1.pdf    # Project 1 Question PDF
+│   ├── answer-project1.pdf      # Project 1 Answer and Report PDF
+│   └── code/                    # Code and data for Project 1 (if available)
 │
-├── exercise_2/
-│   ├── README.md            # Instructions for Exercise 2
-│   ├── script.py            # Solution for Exercise 2
-│   └── data/                # Data used in Exercise 2
-│
-├── exercise_3/
-│   ├── README.md            # Instructions for Exercise 3
-│   ├── script.py            # Solution for Exercise 3
-│   └── data/                # Data used in Exercise 3
+├── proj2_kntu/
+│   ├── question-project2.pdf    # Project 2 Question PDF
+│   └── code/                    # Code and data for Project 2 (if available)
 │
 └── docs/
-    └── README.md            # General documentation for the course
+    └── README.md                # General documentation for the course
+
+
+
+## Project PDF Links
+
+| Project     | Question PDF                                                                                               | Answer PDF                                                                                           |
+|-------------|------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| **Project 1** | [question-project1.pdf](https://github.com/m15kh/project_kntu/blob/master/proj1_kntu/question-project1.pdf) | [answer-project1.pdf](https://github.com/m15kh/project_kntu/blob/master/proj1_kntu/answer-project1.pdf) |
+| **Project 2** | [question-project2.pdf](https://github.com/m15kh/project_kntu/blob/master/proj2_kntu/question-project2.pdf) | Answer not available yet                                                                             |
