@@ -1,0 +1,44 @@
+[System]
+Name='CarParking'
+Type='mamdani'
+Version=2.0
+NumInputs=2
+NumOutputs=1
+NumRules=6
+AndMethod='min'
+OrMethod='max'
+ImpMethod='min'
+AggMethod='max'
+DefuzzMethod='centroid'
+
+[Input1]
+Name='distance_to_target'
+Range=[-10 10]
+NumMFs=2
+MF1='Negative':'trapmf',[-10 -10 -1 1]
+MF2='Positive':'trapmf',[-1 1 10 10]
+
+[Input2]
+Name='phi'
+Range=[0 6.28318530717959]
+NumMFs=4
+MF1='Up':'trimf',[0 1.5707963267949 3.24159265358979]
+MF2='Down':'trimf',[3.04159265358979 4.71238898038469 6.28318530717959]
+MF3='Right':'trimf',[4.61238898038469 6.28318530717959 6.28318530717959]
+MF4='Left':'trimf',[1.4707963267949 3.14159265358979 3.14159265358979]
+
+[Output1]
+Name='steering_angle'
+Range=[-0.785398163397448 0.785398163397448]
+NumMFs=3
+MF1='Left':'trimf',[-0.785398163397448 -0.392699081698724 0]
+MF2='Center':'trimf',[-0.392699081698724 0 0.392699081698724]
+MF3='Right':'trimf',[0 0.392699081698724 0.785398163397448]
+
+[Rules]
+1 1, 3 (1) : 1
+2 1, 1 (1) : 1
+1 2, 1 (1) : 1
+2 2, 3 (1) : 1
+0 3, 1 (1) : 1
+0 4, 3 (1) : 1
