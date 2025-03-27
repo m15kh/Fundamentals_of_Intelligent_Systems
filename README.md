@@ -8,7 +8,7 @@ This repository contains exercises and implementations for the course **Fundamen
 - **University**: K. N. Toosi University of Technology
 - **Website**: [Dr. Aliyari's Website](http://cv.kntu.ac.ir/MahdiAliyariShoorehdeli)
 
-- **Teaching Assistant**: Mr. Mohammad Javad Ahmadi ([GitHub](https://github.com/MJAHMADEE))
+- **Teaching Assistant**: Mr. Mohammad Javad Ahmadi ([GitHub](https://github.com /MJAHMADEE))
 
 
 ## Projects Overview
